@@ -112,5 +112,5 @@ This project is licensed under the MIT License.
 
 ## **Contact**
 For any inquiries or feedback:  
-- **Email**: [harib1373@gmail.com]  
-- **GitHub**: [https://github.com/hariz-coder/RABC-UI.git]
+- **Email**: [javeriyakumthe@gmail.com]  
+- **GitHub**: [https://github.com/JaveriyaK/RABC-UI.git]
